@@ -1,16 +1,14 @@
-## Hi there 👋
+## heya 👋🦊
 
-<!--
-**hidingfoxy/hidingfoxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+im **hidingfox**, im interested in things
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on several projects, drawing, studying, writing music
+- 🌱 I’m currently learning python, Swedish
+- 💬 Ask me about my big brain
+- 📫 How to reach me: discord or bsky
+- 😄 Pronouns: she/her
+- 💖 Stuff I enjoy: coffee☕, womnen💫, my partners😻, cooking🍽
+- ⚡ Fun fact: i make a pizza
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![foxy](foxy.gif "foxy")
